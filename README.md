@@ -1,21 +1,65 @@
-<h1 align="center">Hi 👋, I'm Sai Teja Kotha</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+## Hi there! I'm Sai Teja Kotha 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-teja573&label=Profile%20views&color=0e75b6&style=flat" alt="sai-teja573" /> </p>
+### 🚀 Web Developer | VR Enthusiast | Tech Innovator
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-teja573" alt="sai-teja573" /></a> </p>
+I'm a passionate web developer from India, deeply involved in front-end and back-end development, as well as VR game development. I have worked on multiple projects, including **Campus Quest**, **GADIWALA**, and an **NFT purchasing website**. Currently, I'm also exploring full-stack development with **React.js and Flask**.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📊 GitHub Stats & Achievements
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sai-teja573&label=Profile%20views&color=0e75b6&style=flat)
+
+![Sai Teja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sai-teja573&theme=onedark&margin-w=10&margin-h=10)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai-teja573&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sai-teja573&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sai-teja573&show_icons=true&locale=en&layout=compact&theme=radical)
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-teja573&show_icons=true&locale=en&layout=compact" alt="sai-teja573" /></p>
+### 🌟 Notable Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-teja573&show_icons=true&locale=en" alt="sai-teja573" /></p>
+#### 🎮 **Campus Quest** (VR Game)  
+A VR game built in Unity, designed to provide an interactive campus tour experience. Presented at **Inno@2023**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-teja573&" alt="sai-teja573" /></p>
+#### 🚖 **GADIWALA**  
+A platform bridging commercial drivers with small-scale businesses for seamless communication and service access.
+
+#### 🎨 **NFT Marketplace**  
+A blockchain-based NFT purchasing website, ensuring secure transactions between buyers and sellers.
+
+#### ⚡ **Typing Speed & Accuracy Enhancer**  
+A web-based interactive project improving typing skills with real-time feedback using HTML, CSS, and JavaScript.
+
+#### 🏏 **Cricket Website (VAFA vs WAFA)**  
+A sports-centric website featuring match details, team stats, and player info with a modern UI.
+
+---
+
+### 🤝 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kotha-sai-teja-086710276/)  
+- 📫 Email: [nani09431@gmail.com](mailto:nani09431@gmail.com)  
+- 🏠 [Portfolio](https://sai-teja573.github.io/)  
+
+Let's build something amazing together! 🚀
